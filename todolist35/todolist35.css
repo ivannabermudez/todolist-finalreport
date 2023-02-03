@@ -1,0 +1,28 @@
+
+   body {
+    color: pink(255, 132, 232);
+    background-color: rgb(255, 192, 216);
+    text-align: center;
+  }
+
+.addproduct{
+    text-decoration: none;
+    text-decoration-color: rgb(112, 112, 205);
+
+}
+.h2{
+    text-align: center;
+    text-decoration-color: palevioletred;
+    text-size-adjust: 10px;
+}
+li{
+    flex: 1 1 0%;
+    background-color: rgb(255, 213, 232);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-right: 1rem;
+    color: black;
+    font-size:1.25rem;
+    margin: 10px;
+  }
+  
